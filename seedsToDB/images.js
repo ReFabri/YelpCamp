@@ -24,8 +24,8 @@ module.exports.imagesArray = [
     filename: "YelpCamp/ryan-stone-assZIxUnw8I-unsplash_l2p2bl",
   },
   {
-    url: "https://res.cloudinary.com/r73fgem9f/image/upload/v1667166736/YelpCamp/zach-betten-K9olx8OF36A-unsplash_rlcjut.jpg",
-    filename: "YelpCamp/zach-betten-K9olx8OF36A-unsplash_rlcjut",
+    url: "https://res.cloudinary.com/r73fgem9f/image/upload/v1667507249/YelpCamp/zach-betten-K9olx8OF36A-unsplash_qrwxmp.jpg",
+    filename: "YelpCamp/zach-betten-K9olx8OF36A-unsplash_qrwxmp",
   },
   {
     url: "https://res.cloudinary.com/r73fgem9f/image/upload/v1667166736/YelpCamp/johannes-plenio-ub0HbYE5c0s-unsplash_mfpd4o.jpg",
