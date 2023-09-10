@@ -3,12 +3,7 @@
 
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on Udemy.
 
-![image1.jpg](https://github.com/ReFabri/assets/blob/main/yelpcamp/YelpThumb.jpg?raw=true)
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/ReFabri/assets/blob/main/yelpcamp/YelpCamp2.jpg?raw=true" alt="Image 1" width="48%" />
-    <img src="https://github.com/ReFabri/assets/blob/main/yelpcamp/YelpCamp3.jpg?raw=true" alt="Image 2" width="48%" />
-</div>
+![image1.jpg](https://github.com/ReFabri/assets/blob/main/yelpcamp/YelpThumb_ndusw3.jpg?raw=true)
 
 ## Features
 
@@ -17,6 +12,11 @@ YelpCamp is a website where users can create and review campgrounds. In order to
 - Users can review campgrounds once, and edit or remove their review.
 - Users have the option to edit their profile or delete their account.
 - User profiles include more information on the user (full name, email, phone, join date) and their campgrounds.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/ReFabri/assets/blob/main/yelpcamp/YelpCamp2_cngqd1.jpg?raw=true" alt="Image 1" width="48%" />
+    <img src="https://github.com/ReFabri/assets/blob/main/yelpcamp/YelpCamp3_xrplml.jpg?raw=true" alt="Image 2" width="48%" />
+</div>
 
 ## Built With
 
